@@ -1,0 +1,12 @@
+accountcode = Codice Clienti
+accountcode.code = Codice Cliente
+accountcode.code.tooltip = Numero codice cliente.
+accountcode.description = Descrizione
+accountcode.description.tooltip = Breve descrizione per identificare questo codice cliente.
+accountcode.enabled = Abilita
+accountcode.enabled.tooltip = Abilita/Disabilita questo codice cliente.
+accountcode.general = Generale
+accountcode.not_found = Codice cliente non trovato.
+accountcode.search = Cerca
+module.accountcode = Codice Clienti
+menu.account_codes = Codice Clienti

@@ -1,0 +1,14 @@
+app_access = Accesso alle applicazioni
+app_access.application_deleted = Applicazione eliminata correttamente
+app_access.confirm_delete = Sei sicuro di voler eliminare questa applicazione?
+app_access.delete = Cancella
+app_access.maintenance = Mantenimento
+app_access.displayname = Nome dell'applicazione
+app_access.displayname.invalid = Il nome dell'applicazione non può essere vuoto.
+app_access.displayname.tooltip = Nome descrittivo per l'applicazione.
+app_access.general = Generale
+app_access.key = Tasto
+app_access.key.invalid = L'applicazione non deve essere vuota e deve essere valida.
+app_access.key.tooltip = Base64-encoded application key.
+menu.app_access = Accesso alle applicazioni
+module.app_access = Accesso alle applicazioni
