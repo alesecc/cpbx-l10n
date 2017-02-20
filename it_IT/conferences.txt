@@ -1,9 +1,9 @@
-conferences = Conferences
+conferences = Conferenze
 conferences.adminpin = Leader PIN
-conferences.adminpin.tooltip = Pin Number to identify the Leader User.
-conferences.announcement_id = Join Announcement
-conferences.announcement_id.tooltip = Play a sound file to the user when he/she joins the conference.
-conferences.announce_join_leave = Announce Join/Leave
+conferences.adminpin.tooltip = Pin per identificare lo user Leader.
+conferences.announcement_id = Annuncio di ingresso
+conferences.announcement_id.tooltip = Riproduci un file audio quando un utente entra nella conferenza.
+conferences.announce_join_leave = Annuncia ingresso e uscita
 conferences.announce_join_leave.tooltip = When enabled, this option will prompt the user for a name when entering the conference. After the name is recorded, it will be played as the user enters and exits the conference.
 conferences.announce_only_user = Announce Only User
 conferences.announce_only_user.tooltip = Sets if the only user announcement should be played when a channel enters a empty conference.
