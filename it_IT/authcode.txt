@@ -1,7 +1,7 @@
 authcode = Codice di autorizzazione
 authcode.auth_alias = Alias
 authcode.auth_alias.invalid = Inserisci un alias valido. Numeri, lettere, trattini e trattino basso, sono permessi
-authcode.auth_alias.tooltip = Alias ​​per identificare questo codice di autorizzazione. Per ragioni di sicurezza questo apparirà sul CDR come codice di autenticazione
+authcode.auth_alias.tooltip = Alias per identificare questo codice di autorizzazione. Per ragioni di sicurezza questo apparirà sul CDR come codice di autenticazione
 authcode.auth_alias.unique = L'alias deve essere univoco
 authcode.class_of_service_id = Classi di servizio
 authcode.class_of_service_id.tooltip = Classi di servizio usate nelle rotte di chiamata
@@ -12,7 +12,7 @@ authcode.description.tooltip = Breve descrizione per iddentificare questo codice
 authcode.enabled = Abilita
 authcode.enabled.tooltip = Abilita/Disabilita questo codice di autenticazione.
 authcode.general = Generale
-authcode.not_found = Codiece di autorizzazione non trovato
+authcode.not_found = Codice di autorizzazione non trovato
 authcode.search = Cerca
 menu.authorization_codes = Codici di autorizzazione
 module.authcode = Codice di autorizzazione
